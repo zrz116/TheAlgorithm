@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*-coding:utf-8 -*-
 
+"""
+This is my own independent work, without reference to any other people's programs.
+"""
+
 def insertion_sort(list):
     N = len(list)
     for j in range(1, N):
